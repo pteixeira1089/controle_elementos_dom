@@ -1,0 +1,2 @@
+Minhas observações:
+1. O controle de entrada de dados poderia ter sido feito no nível do html do formulário, utilizando os elementos e atributos apropriados. Contudo, para fins didáticos, removi tais controles, de forma a praticar o tratamento de erros via JavaScript.
